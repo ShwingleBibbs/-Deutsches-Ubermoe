@@ -1,4 +1,4 @@
-# Deutsches-Ubermoe [v1.1]
+# Deutsches-Übermoe [v1.1]
 
 The submod of the submod that was too hot for steam is finally on Github.
 
